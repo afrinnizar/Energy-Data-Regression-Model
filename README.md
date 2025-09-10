@@ -1,8 +1,3 @@
-# Energy-Data-Regression-Model
-
-Got it 👍 — here’s a **shortened version** of the README:
-
----
 
 # Energy Efficiency Regression
 
@@ -40,4 +35,3 @@ This project uses the **Energy Efficiency dataset** from the [UCI Repository](ht
 
 ---
 
-Do you want me to make it even **shorter (one-page summary)** or keep this medium-sized version?
